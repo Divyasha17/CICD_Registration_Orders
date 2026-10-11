@@ -1,0 +1,7 @@
+Feature: Automating the application
+Given: open the chrome browser
+And Navigate to the application
+When Enter the username
+And Enter the password
+When click the login 
+Then application should be landed into the home page
